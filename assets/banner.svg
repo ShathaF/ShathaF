@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a2356"/>
+      <stop offset="0.6" stop-color="#2b2f8f"/>
+      <stop offset="1" stop-color="#6d5bd0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#g)"/>
+  <circle cx="1060" cy="60" r="130" fill="#14a3a3" opacity="0.22"/>
+  <circle cx="1130" cy="250" r="90" fill="#ff6f61" opacity="0.28"/>
+  <circle cx="930" cy="230" r="46" fill="#ffffff" opacity="0.08"/>
+  <text x="70" y="130" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Shatha Alluhaibi</text>
+  <text x="72" y="182" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#cfe9ee">Computer Vision  ·  Data Analysis  ·  Software</text>
+  <rect x="72" y="208" width="120" height="6" rx="3" fill="#14a3a3"/>
+  <rect x="200" y="208" width="60" height="6" rx="3" fill="#ff6f61"/>
+</svg>
